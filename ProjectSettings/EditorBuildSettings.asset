@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3e0d7da03a25d2a419449d25742d03a5
+  - enabled: 1
+    path: Assets/Scenes/Level_1_1.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Scenes/Level_1_2.unity
+    guid: 66ff0dff16ae33b48b9d27717364f99d
+  - enabled: 1
+    path: Assets/Scenes/Level_1_3.unity
+    guid: b555f12b79876404c8c334bf9ea80c7e
+  - enabled: 1
+    path: Assets/Scenes/Level_2_1.unity
+    guid: ac94a28948e38324299f1aca9c6f7936
+  - enabled: 1
+    path: Assets/Scenes/Level_2_2.unity
+    guid: 940352d0aa9d8424ea62306e5ed3d022
+  - enabled: 1
+    path: Assets/Scenes/Level_2_3.unity
+    guid: e53e83c64b64c384db67c5f5f055747d
+  - enabled: 1
+    path: Assets/Scenes/Level_3_1.unity
+    guid: 51e91f9bd905aeb4f8dbb5a62fa84253
+  - enabled: 1
+    path: Assets/Scenes/Level_3_2.unity
+    guid: e8f564944d5f30943a13973b6b1c2cc7
+  - enabled: 1
+    path: Assets/Scenes/Level_3_3.unity
+    guid: f300a8ca0b8bf2a41a2d642f8b0af55d
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 346d4d42ebbba6c4cae4b6e56622b09e,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 15643975983a7614283f379111dc2f2a, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 9ef0add41f7eb8a42b9c29b7474d6e80, type: 2}
